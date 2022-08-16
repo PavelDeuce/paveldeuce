@@ -43,4 +43,4 @@ Education: Master's Degree in 09.04.03 Applied Informatics.
 ## Github stats
 
 ![Pavel Deuce's GitHub stats](https://github-readme-stats.vercel.app/api?username=paveldeuce&show_icons=true&line_height=20&include_all_commits=true)
-[![Pavel Deuce's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paveldeuce&layout=compact&langs_count=10](https://github.com/paveldeuce/github-readme-stats)
+[![Pavel Deuce's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paveldeuce&layout=compact&langs_count=10(https://github.com/paveldeuce/github-readme-stats)
