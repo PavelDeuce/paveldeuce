@@ -1,10 +1,8 @@
 # Hi there 👋
 
-I’ve been working as a Frontend Developer for more than 2.5 years, currently working for Dtechs.
+I’ve been working as a Frontend Developer since 2019, currently working for Dtechs.
 
-I create Frontend applications on Angular and React.
-
-I’m also interested in Backend development on node.js and mobile development on swift in my leisure time 😄
+I create Frontend applications on Angular and React. Besides, I’m studying Backend development on node.js and mobile development on swift. In my spare time I’m keen on sport, travelling and playing video games :)
 
 Education: Master's Degree in 09.04.03 Applied Informatics.
 
