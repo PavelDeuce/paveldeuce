@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I’ve been working as a Frontend Developer since 2019, currently working for Dtechs.
+I’ve been working as a Frontend Developer since 2019, currently working for Arival.
 
 I create Frontend applications on Angular and React. Besides, I’m studying Backend development on node.js and mobile development on swift. In my spare time I’m keen on sport, travelling and playing video games :)
 
